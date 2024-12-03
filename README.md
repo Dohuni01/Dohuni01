@@ -39,7 +39,8 @@
   <a href="https://www.instagram.com/boring_kimi/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
-  <a href="awesomeace00@gmail.com">
-    <img src="https://img.shields.io/badge/awesomeace00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
+  <a href="mailto:awesomeace00@gmail.com">
+    <img src="https://img.shields.io/badge/awesomeace00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
+</a>
+
 </div>
